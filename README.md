@@ -4,9 +4,7 @@
 ## 🔒 About Me
 I am a passionate Cyber Security Analyst with experience in network security, threat analysis, and ethical hacking. I enjoy solving complex problems and am constantly learning new techniques and tools to stay ahead in the cybersecurity landscape.
 
-- 🔭 I’m currently working on **PEGA Systems**
-
-- 🌱 I’m currently learning **Full Stack**
+- 🔭 🌱 I’m currently working on **PEGA Systems**
 
 - 👯 I’m looking to collaborate with **Cyber Security Analyst**
 
